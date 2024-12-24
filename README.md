@@ -8,5 +8,6 @@ Search for weather by city name.
 User-friendly and responsive design for seamless experience on any device.
 
 # Technologies Used
-Frontend: Html , Css , Js
+Frontend: Html , Css 
+Backend : Js
 API Integration: OpenWeatherMap API
